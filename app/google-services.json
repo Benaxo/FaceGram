@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "48504701727",
+    "project_id": "facegram-bf8cf",
+    "storage_bucket": "facegram-bf8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48504701727:android:6fcb49cc24d843cba9e62a",
+        "android_client_info": {
+          "package_name": "com.example.facegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48504701727-f19sg49bu3l03hv756j99ij3klo452hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facegram",
+            "certificate_hash": "15889021aa7a0dd8ad25fbc8534dd664c2abf73a"
+          }
+        },
+        {
+          "client_id": "48504701727-b8nb5c0g3fpi3ji137ci12443tnf2g7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYsKe7NT2EfOktUmSdc9v7tQreylUDEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48504701727-b8nb5c0g3fpi3ji137ci12443tnf2g7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

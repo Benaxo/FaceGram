@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FaceGram</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_sub_title">
+        <font color="#000"><b>Login</b></font> if you already have an account.
+    </string>
+    <string name="sign_up_sub_title">
+        i don\'t have an account.<font color="#000"><b>Sign Up</b></font>
+    </string>
+    <string name="forgot_pwd"><font color="#000"><b>Forgot Password?</b></font>
+    </string>
+</resources>
