@@ -22,17 +22,8 @@
         android:theme="@style/Theme.FaceGram"
         tools:targetApi="31">
         <activity
-            android:name=".SignUpActivity"
-            android:exported="false" />
-        <activity
-            android:name=".SignUp"
-            android:exported="false" />
-        <activity
-            android:name=".SigninUp"
-            android:exported="false" />
-        <activity
             android:name=".LoginActivity"
-            android:exported="true"
+            android:exported="false"
             android:label="@string/title_activity_login"
             android:theme="@style/Theme.FaceGram">
             <intent-filter>
@@ -41,6 +32,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true"

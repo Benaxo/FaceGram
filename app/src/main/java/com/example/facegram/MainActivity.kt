@@ -28,8 +28,6 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
-
-    fun onMatch(view: View) {}
 }
 
 @Composable
